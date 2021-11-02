@@ -1,1 +1,3 @@
-# sunmeina-studybook
+# 学习手册
+# 日志
+  。2021.11.02 整理GitHub 计划
