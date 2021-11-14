@@ -8,5 +8,5 @@
     4. 重新整理了排序算法的掘金文章的计数算法部分：https://juejin.cn/post/7025413487425749005/
 
  * 2021.11.14
-    1、学习整理了树的相关基础知识：https://juejin.cn/post/7030434103593795597/
-    2、学习了二叉树的前序遍历：https://github.com/8023nana/study-algorithm/blob/main/144.js
+    1. 学习整理了树的相关基础知识：https://juejin.cn/post/7030434103593795597/
+    2. 学习了二叉树的前序遍历：https://github.com/8023nana/study-algorithm/blob/main/144.js
