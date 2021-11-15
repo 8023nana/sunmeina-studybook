@@ -10,3 +10,7 @@
  * 2021.11.14
     1. 学习整理了树的相关基础知识：https://juejin.cn/post/7030434103593795597/
     2. 学习了二叉树的前序遍历：https://github.com/8023nana/study-algorithm/blob/main/144.js
+
+ * 2021.11.15
+    1. 学习了二叉查找树的创建和插入相关：https://github.com/8023nana/study-algorithm/blob/main/createBST.js
+    2. 补充整理了树相关的掘金文章：https://juejin.cn/post/7030434103593795597/
